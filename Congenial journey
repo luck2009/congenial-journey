@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>my first html dicument </title>
+<style>
+  body{
+    background-color: red;
+    text-align: left;
+     }
+</style>    
+  </head>
+  <body>
+    <h1>Welcome to LuckCorp</h1>
+    
+    <p>My name is Nwaije Goodluck. Here at LuckCorp we do;<br>
+    <strong>
+      <li>software development</li>
+      <li>website creation</li>
+      <li>Advertisement</li>
+    </strong></p>
+   <p>To know more about my services;<a href="LuckCorp.htm">
+    <button>Click Me!</button>
+</a></p>
+
+
+  </body>
+</html
